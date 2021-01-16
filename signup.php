@@ -75,7 +75,7 @@ input[type=tel], select, textarea {
   resize: vertical;
 }
 input[type=submit] {
-  background-color: #eb7535;
+  background-color: #a35ba4;
   color: white;
   padding: 12px 20px;
   border: none;
@@ -84,7 +84,7 @@ input[type=submit] {
 }
 
 input[type=submit]:hover {
-  background-color: #45a049;
+  background-color:#64a3d9;
 }
 #form-img{
     max-width:10%;
@@ -112,7 +112,7 @@ input[type=submit]:hover {
 <body>
 <div id="form-head">
     <img src="logo.png" id="form-img"></img>
-    <h2 style="text-align: center; font-size:34px; color:#eb7535;margin:2%;">Signup/ साइन अप करें</h2>
+    <h2 style="text-align: center; font-size:34px; color:#ed2d87;margin:2%;">Signup/ साइन अप करें</h2>
 </div> 
 
 <div class="container">
