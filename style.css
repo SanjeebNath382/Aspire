@@ -12,8 +12,9 @@
   
 }
 #header-img{
-  width:15%;
-  height:15%;
+  width:10%;
+  height:10%;
+  margin-right:30px;
 }
 
 #active{
@@ -23,6 +24,13 @@
 header{
 width:100% !important;
   background-color:#fae05f !important;
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#87e0fd+0,a35ba4+100 */
+background: #87e0fd; /* Old browsers */
+background: -moz-linear-gradient(-45deg,  #87e0fd 0%, #a35ba4 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg,  #87e0fd 0%,#a35ba4 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg,  #87e0fd 0%,#a35ba4 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#87e0fd', endColorstr='#a35ba4',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
   display:flex !important;
   justify-content:space-between !important;
   align-items:center !important;
@@ -36,18 +44,20 @@ nav{
   justify-content:space-evenly;
   align-items:center;
 }
+#nav-bar{
+    margin-left:30px;
+}
 .nav-link{
-    min-width:40%;
+    min-width:35%;
     font-size: 18px;
     text-align:center;
-    margin:0% 5%;
-  color:black;
-  padding:5%;
+    margin:0% 2%;
+  color:white;
+  padding:0%;
   text-decoration:none;
 }
 .nav-link:hover{
-    color:white;
-    background:black;
+    box-shadow:2px 2px 2px 2px rgba(0,0,0,0.4)
 }
 #job-content{
     margin:10% 15% 1% 15%;
@@ -63,7 +73,7 @@ nav{
 #search-product{
     padding:1%;
     font-size:32px;
-    border:3px solid #eb7535;
+    border:3px solid #ed2d87;
     width:70%;
 }
 #location{
@@ -84,7 +94,7 @@ nav{
     justify-content:center !important;
 }
 .job-name{
-    color:#eb7535;
+    color:#ed2d87;
 }
 .job-card{
     display:flex;
@@ -109,7 +119,7 @@ box-shadow: 0px 2px 2px grey;
 box-shadow:0px 5px 5px black;
 }
 #home-title{
-    color:#eb7535;
+    color:#ed2d87;
     font-size:60px;
     text-align:center;
     margin:2%;
@@ -146,7 +156,7 @@ box-shadow: 0px 2px 2px grey;
     margin-right:5%;
 }
 #total{
-    color:#eb7535;
+    color:#ed2d87;
     text-align:center;
     width:40%;
     border:2px solid black;
@@ -162,7 +172,7 @@ box-shadow: 0px 2px 2px grey;
 }
 #checkout{
     margin:2%;
-    background:#eb7535;
+    background:#ed2d87;
     color:white;
     text-align:center;
     border:2px solid white;
@@ -173,7 +183,7 @@ box-shadow: 0px 2px 2px grey;
     box-shadow: 0px 2px 2px grey;
 }
 #alter{
-    background:#eb7535;
+    background:#ed2d87;
     color:white;
     border:2px solid white;
     max-width:10%;
