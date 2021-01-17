@@ -1,0 +1,7 @@
+(src and other files flder m)
+
+git init
+git add .
+git commit -m "Completed"
+git remote add origin https://github.com/Ananysharma08/Coding-a-UX-design-from-scratch-in-ReactJS.git
+git push -u origin master
