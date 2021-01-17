@@ -76,7 +76,7 @@ h1{
   
   </div>
   <nav id="nav-bar">
-    <a class="nav-link" href="jobportal.php">Job Portal/ नौकरी ढूंढे</a>
+    <a class="nav-link" href="jobportal.php">Job Portal/नौकरी ढूंढे</a>
     <a class="nav-link" href="Profile.php" id="active">Profile/प्रोफ़ाइल</a>
   </nav>
 </header>
