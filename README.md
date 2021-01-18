@@ -59,7 +59,9 @@ git clone https://github.com/SanjeebNath382/Aspire.git
 <img src="Screenshots/s6.jpeg" width="300">
 
 
-
+## Presentation Link
+ 
+ Link : - https://docs.google.com/presentation/d/1LSOuynKCameW30raSeAVbSyOalBz8xgIYjYTh8RBZKg/edit#slide=id.p3
 
 
 ## Our Team
