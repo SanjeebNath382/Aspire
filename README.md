@@ -46,7 +46,7 @@ git clone https://github.com/SanjeebNath382/Aspire.git
 
 ## Screenshots
 
-<img src="Screenshots/s1.jpg" width="300">
+<img src="Screenshots/s1.png" width="300">
 <img src="Screenshots/s2.jpg" width="300">
 <img src="Screenshots/s3.jpg" width="300">
 <img src="Screenshots/s4.jpg" width="300">
